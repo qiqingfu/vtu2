@@ -1,29 +1,5 @@
-# vue-test-utils-v2
+# Vue Test Utils (2.0.0-beta.10)
 
-## Project setup
-```
-npm install
-```
+- [官方文档](https://vue-test-utils.vuejs.org/v2/guide/introduction.html#vue-test-utils-documentation)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
